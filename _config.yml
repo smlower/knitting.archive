@@ -21,7 +21,7 @@
 title: knitting.archive
 email: sidneylower96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog for documenting knittiing progress.
+  Blog for documenting knitting progress.
 baseurl: "/knitting.archive" # base path of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: es_em_ell
