@@ -32,3 +32,8 @@ So I signed up for a knitting class, learned a lifetime's worth of wisdom for a 
 
 
 My hope for this page is to document everything important (to knitting) I've experienced since October 2. I'll be posting about learning new techniques, the projects I used them in, and all the hilarious mistakes along the way. 
+
+
+-----
+
+One of the main reasons I signed up for this class was to meet people. Not having school to force friends upon me was hard so I found more school to go to. The **Yarned and Dangerous** group now meets monthly to show off finished projects, works in progress, and all the pitfalls we've encountered along the way. 
