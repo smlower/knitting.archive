@@ -26,19 +26,33 @@ baseurl: "/knitting.archive" # base path of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: es_em_ell
 github_username:  smlower
+paginate: 5
+permalink: pretty
 
 # Build settings
 plugins:
   - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
 remote_theme: vszhub/not-pure-poole
 
 # page setup
 
-cover_image: /IMG_4839.jpg
+cover_image: /cover_img.png
+cover_color: rgb(233 237 201)
+
+future: true
 
 navbar-links:
   Home: ""
+
+author:
+  name: Sidney Lower
+  url: https://sidneylower.com
 
 
 # Exclude from processing.
@@ -49,12 +63,12 @@ navbar-links:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
