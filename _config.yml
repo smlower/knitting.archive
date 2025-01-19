@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sidney Lower
+title: knitting.archive
 email: sidneylower96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for documenting knittiing progress.
@@ -28,7 +28,6 @@ twitter_username: es_em_ell
 github_username:  smlower
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-remote-theme
 
