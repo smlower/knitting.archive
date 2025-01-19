@@ -33,6 +33,9 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 
+# page setup
+
+cover_image: /IMG_4839.jpg
 
 navbar-links:
   Home: ""
