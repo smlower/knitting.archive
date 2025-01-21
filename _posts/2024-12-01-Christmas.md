@@ -11,7 +11,7 @@ The logical next step after [finishing the very first project](https://smlower.g
 
 The difficulty is defining *everyone* simply because I couldn't picture some people wearing knitwear. Plus most of my friends (+ Cole's family) live in Florida so giving them knitwear to keep warm would be useless at best and threatening at worst. So the first knit list was
 
-- Mom: hat <span>&#10003;</span>
+- Mom: hat (<span>&#10003;</span> simple hat)
 - Sylvia: headband thing
 - Cole: scarf
 - Karol: hat
@@ -37,11 +37,12 @@ until the final **Christmas Gift Spectacular** tally
 - Grandma Jo: pink/cream wool hat
 - Boompa: slipper socks (not pictured)
 - myself: green hat
-- Karol: purple hat (not pictured because I sent it to her already)
+- Karol: purple hat (pictured in action)
 
 
-![image]({{ site.baseurl }}/assets/images/IMG_5247.jpg)
+| ![image]({{ site.baseurl }}/assets/images/IMG_5247.jpg) | ![image]({{ site.baseurl }}/assets/images/karol.png) |
 
+---
 
 From early November to December 23rd, I was knitting continuously, most of the time managing 3-4 works in progress at a time. I don't necessarily recommend this to anyone, but I will say it was incredible practice and felt good to challenge myself. There will be separate posts documenting select projects included in the Christmas frenzy, just skipping the ones that either  1) didn't work very well or 2) followed patterns already discussed. 
 
