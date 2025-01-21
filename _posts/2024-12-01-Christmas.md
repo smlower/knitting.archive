@@ -9,7 +9,7 @@ tags: [Christmas frenzy]
 The logical next step after [finishing the very first project](https://smlower.github.io/knitting.archive/2024/10/12/FirstHat/) is to make something for everyone. The more, the merrier / tis the season/ etc. 
 
 
-The difficulty is defining *everyone* simply because I couldn't picture some people wearing knitwear. So the idea of making wearables *and* use-ables started. The first knit list was
+The difficulty is defining *everyone* simply because I couldn't picture some people wearing knitwear. Plus most of my friends (+ Cole's family) live in Florida so giving them knitwear to keep warm would be useless at best and threatening at worst. So the first knit list was
 
 - Mom: hat <span>&#10003;</span>
 - Sylvia: headband thing
