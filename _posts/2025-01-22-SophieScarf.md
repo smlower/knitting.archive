@@ -2,7 +2,7 @@
 layout: post
 title: Coming Soon - Sophie Hood
 date: 2025-1-22
-tags: [future_project, wearables]
+tags: [current_projects, wearables]
 ---
 
 I think I just got influenced. 
@@ -34,7 +34,7 @@ When I finished up the Christmas Frenzy, my plan was to get Cole's socks going. 
 
 > Yarn: [Arroyo Merino wool by Malabrigo](https://yarnery.com/collections/yarn/products/arroyo?variant=43262333780119), wabi-sabi colorway, 100% Merino wool, DK weight
 
-> Needles: US 8
+> Needles: US 8 - circular, to have more room to hold stitches
 
 > Misc: quality
 
@@ -47,6 +47,20 @@ The original Sophie scarf yarn is a vibrant red color but I think the simplicity
 
 
 ![image]({{ site.baseurl }}/assets/images/IMG_5434.jpg)
+
+# Update 2/5/2025
+
+With [Cole's socks](https://smlower.github.io/knitting.archive/2025/01/08/Socks2/) finished, I knew it was time to start the Sophie Hood. I admit I felt (and still feel) intimated because of my goal to aim for quality... But having gotten to about the 75% mark on the first side, I can say that the way this pattern is written really lends itself to that quality mindset. The basic idea for the shape of the scarf portion is a pretty slow increase with an i-cord detail along the edges, which makes for a really nice, clean look. The way the pattern is communicated is quite different from other patterns, in the sense that you *must* keep track of exactly which row you're on because the increases are so far apart and you repeat the same pattern for so long. It's truly a study in focus, which I feel lends itself to quality because you can't really go on autopilot. 
+
+
+The yarn is also as beautiful as I pictured, with the color changes being a lot more random but more subtle than the other color changing yarn I've used before (which tended to self stripe rather than intersperse the colors). The yarn is also so luxurious to the touch; even though the knit has been somewhat tedious, the excitement to wear it keeps me motivated. 
+
+Since the pattern is proprietary, I won't share my notes like I usually do but I have been keeping pretty diligent notes to keep track of stitch/row counts. After completing one side of the scarf, the hood part is knitted with some stitches placed on hold - I've skimmed the later parts of the pattern and they confuse me a little but I'm sure they'll be enlightening once I get there. 
+
+
+![image]({{ site.baseurl }}/assets/images/IMG_5539.jpg)
+
+> Progress pic, with my scratch sheet that's keeping track of my increases. 
 
 
 ---
