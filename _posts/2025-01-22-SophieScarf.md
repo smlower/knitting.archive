@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming Soon - Sophie Hood
+title: Sophie Hood
 date: 2025-1-22
 tags: [current_projects, wearables]
 ---
