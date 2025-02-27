@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Coming Soon - Colorwork Hat
+title: Colorwork Hat
 date: 2025-02-05
-tags: [future_projects, wearables]
+tags: [wearables, colorwork]
 ---
 
 A hat in Technicolor
@@ -52,12 +52,22 @@ When searching for an accessible colorwork hat pattern for my first try, I found
 
 | ![image]({{ site.baseurl }}/assets/images/second_hat.png) | ![image]({{ site.baseurl }}/assets/images/second_hat_chart.png) |
 
-> Hat design and colorwork chart.
+> Hat design and colorwork chart. 
 
 
 Looking at the chart, it's a bit more complicated than the first design, so I'll definitely need to pay attention to where I am in the pattern and which yarn is which since I'm not using the exact yarns from the pattern. I also opted to use just 3 contrasting colors instead of the 4 used in the pattern, because I plan to use the background color in place of the lighter yellow color. 
 
 The plan is to finish the Sophie Hood first and then start on this - thankfully Minnesota winters are long so starting a hat in mid February will still let me get some good use out of it. 
+
+# Update 2/27
+
+And it's done. Like the first colorwork hat, the knitting aspect of this wasn't very difficult, just a brim of 1x1 ribbing and knitting the rest of the way. Even the colorwork wasn't very difficult to manage, since each row used at most 2 colors at a time. The finished design looks busy but going row by row ends up being a very simple pattern to manage. 
+
+Perhaps my only regret is the choice of yarn itself: cotton. Add this to the long list of lessons learned, but hats should really only be made out of acrylic or wool, textiles that have natural elasticity. Cotton has essentially none (think vintage denim jeans with 0 stretch), and it makes for a hat that 1) fits very snug because there is no give and 2) will probably become misshapen after many wears since the yarn won't "bounce back" after being stretched out (like jeans that get looser with each wear but then tighten back up after a wash). Also, cotton isn't as 'comfy' feeling as soft acrylics and wools, so this hat has more of a washcloth texture. Even so, I'm really happy with how the color changes and pattern worked out. The technical aspect of the hat turned out well, I just know now not to use cotton for things that need give. 
+
+| ![image]({{ site.baseurl }}/assets/images/colorwork_hat_retooled.png) | ![image]({{ site.baseurl }}/assets/images/IMG_5769.jpg) | ![image]({{ site.baseurl }}/assets/images/IMG_5774.jpg) |
+
+> Right hand image: reworked color chart using yarn colors from above. Middle & left images: Finished hat. I opted for a folded brim so the hat has a slightly different fit/shape than the original pattern.
 
 
 
