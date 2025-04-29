@@ -2,7 +2,7 @@
 layout: post
 title: Sophie Hood
 date: 2025-1-22
-tags: [current_projects, wearables]
+tags: [past_projects, wearables]
 ---
 
 I think I just got influenced. 
@@ -62,6 +62,19 @@ Since the pattern is proprietary, I won't share my notes like I usually do but I
 
 > Progress pic, with my scratch sheet that's keeping track of my increases. 
 
+
+# Update 4/10/25
+
+Well...
+
+As the timespan between updates may suggest, this project did not get whipped out like my previous projects did. For one thing, my decision to increase one stitch per 10 rows (marked as size L in the pattern) turned out to create a monster of a knit which was 90% skinny scarf and 10% hood and overall pretty thin given the weight of the yarn. I was also unsatisfied with the not-so-seamless mattress stitch on the back of the hood or the less than similar scarf tails. Don't get me wrong - the knit was beautiful, the yarn performed as hoped, and the finished product looked great on... I just kept thinking back to PetiteKnit's words of encouraging quality and satisfaction in one's work. I sat with the finished hood for several weeks, got some second opinions from my Yarned and Dangerous gals, and decided to start over, this time increasing one stitch per 6 rows and building up a deeper/wider hood. I also went with an idea I thought about but ultimately passed on: double strand knitting. Basically, knitting with two strands of yarn together to make each stitch twice as thick, making the scarf portion more robust than before. 
+
+Because of the fatigue from the original knit and the minor tediousness of the pattern itself, this reknit was trying. But I think it ultimately paid off. The scarf is more of a hood now and wraps around my neck just once, creating a cozy and warm headpiece. I am much more satisfied with this finished piece than before. Hats (or rather, hoods) off to you PetiteKnit for your words of encouragement. 
+
+
+| ![image]({{ site.baseurl }}/assets/images/IMG_6101.jpg) | ![image]({{ site.baseurl }}/assets/images/IMG_6103.jpg) |
+
+> Finished piece, 2.0. Modeled by moi. 
 
 ---
 
