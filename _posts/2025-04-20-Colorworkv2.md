@@ -2,7 +2,7 @@
 layout: post
 title: Duplicate Stitch
 date: 2025-04-20
-tags: [wearables, colorwork]
+tags: [past_projects, wearables, colorwork]
 ---
 
 (sort of) cross-stitch + hat = any pattern under the sun
